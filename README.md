@@ -1,22 +1,39 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-civitas
-=======
 
-The primary goal of civitas is to provide the R for Data Science Community (\#R4DS) an access point for collaborative development of R packages. It is intended to be open to all experience levels of useRs and provide a safe and inclusive space to learn the ins an outs of pacakge development.
+# civitas
 
-It's secondary goals is to provide useful functions to current and future learners to assist them in all of the topics and areas covered by R4DS and the `tidyverse`.
+The primary goal of civitas is to provide the R for Data Science
+Community (\#R4DS) an access point for collaborative development of R
+packages. It is intended to be open to all experience levels of useRs
+and provide a safe and inclusive space to learn the ins an outs of
+pacakge development.
 
-This is an extremely new initative, and will be in a incubative state for some time.
+It’s secondary goals is to provide useful functions to current and
+future learners to assist them in all of the topics and areas covered by
+R4DS and the `tidyverse`.
 
-Installation
-------------
+This is an extremely new initative, and will be in a incubative state
+for some time.
 
-You can install the development version of civitas from [GitHub](https://github.com/) with:
+## Installation
+
+You can install the development version of civitas from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("rfordatascience/civitas")
 ```
 
-In the future, we hope this is a package that will be released to CRAN!
+In the future, we hope this is a package that will be released to CRAN\!
+
+## Contributing
+
+We welcome contributions from anyone interested in helping to make this
+package more user-friendly and effective. Please review our
+[contributing](https://github.com/rfordatascience/civitas/blob/master/CONTRIBUTING.md)
+and
+[conduct](https://github.com/rfordatascience/civitas/blob/master/CODE_OF_CONDUCT.md)
+guidelines. By participating in this project you agree to abide by their
+terms.

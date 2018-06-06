@@ -30,3 +30,7 @@ devtools::install_github("rfordatascience/civitas")
 ```
 
 In the future, we hope this is a package that will be released to CRAN!
+
+## Contributing
+
+We welcome contributions from anyone interested in helping to make this package more user-friendly and effective. Please review our [contributing](https://github.com/rfordatascience/civitas/blob/master/CONTRIBUTING.md) and [conduct](https://github.com/rfordatascience/civitas/blob/master/CODE_OF_CONDUCT.md) guidelines. By participating in this project you agree to abide by their terms.
